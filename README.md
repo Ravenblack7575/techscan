@@ -1,5 +1,5 @@
 # techscan
-Multi-Agent Research Assistant
+A prototype Multi-Agent Research Assistant using Crew AI
 
 ### What is this project about?
 
