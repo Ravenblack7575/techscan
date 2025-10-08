@@ -20,6 +20,7 @@ SerperAPI is used to access google search for web searches. (I'll probably try D
 LLM is accessed using LM Studio and the model applied here is Gemma-3n-E4B-it-text-GGUF. (Deep Seek may be a better LLM for the reasoning parts, Gemma may be better for the writing.)
 
 </BR>
+
 ### Thoughts 
 
 It was satisfying to see it work and at the same time, what I learned doing this grounds me a bit. There's a cost to running LLMs even locally, in terms of computing power which translates to electricity and carbon costs. Google search via SERPER was not free, and I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. One could get better results with bigger models but again LLMs are not completely free. 
