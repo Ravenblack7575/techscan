@@ -17,7 +17,7 @@ This project uses CrewAI (and CrewAI tools) to create the agents and manage them
 
 SerperAPI is used to access google search for web searches. (I'll probably try DuckDuckGo next time, because Serper will cost money.)
 
-LLM is accessed using LM Studio and the model applied here is Gemma-3n-E4B-it-text-GGUF. (Deep Seek may be a better LLM for the reasoning parts, Gemma may be better for the writing.)
+LLM is accessed using LM Studio and the model applied here is Gemma-3n-E4B-it-text-GGUF. (In future version (if any) I think that I might try DeepSeek for the reasoning parts, and Gemma for the writing.)
 
 </BR>
 
