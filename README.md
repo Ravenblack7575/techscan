@@ -23,6 +23,11 @@ LLM is accessed using LM Studio and the model applied here is Gemma-3n-E4B-it-te
 
 ### Thoughts 
 
-It was satisfying to see it work but what I learned doing this grounds me a bit. There's a cost to running LLMs even locally, in terms of computing power which translates to electricity and carbon costs. Google search via SERPER was not free, and I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. One could get better results with bigger models but again LLMs are not completely free. 
+It was satisfying to see it work but what I learned doing this grounds me a bit. There's a cost to running LLMs even locally, in terms of computing power which translates to electricity and carbon costs. Google search via SERPER was not free, and I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. I suspect much of the generated text is hallucinated. So I do need to implement some method of evaluation on the next round.
+
+It is said, one could get better results with bigger models. LLMs are getting better and they have costs attached to them. 
+
+Elizabeth Lim 2025
+
 
 
