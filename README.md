@@ -11,7 +11,7 @@ The resulting report provides a quick overview, offers initial topic sensing, an
 
 ### Libraries used
 
-Poetry is used to manage the python modules.
+Poetry was used to manage the python modules.
 
 This project uses CrewAI (and CrewAI tools) to create the agents and manage them. (Love the simplicity of CrewAI.)
 
