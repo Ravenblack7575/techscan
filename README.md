@@ -11,6 +11,8 @@ This agentic AI system autonomously searches the internet for recent news, produ
 
 The resulting report provides a quick overview, offers initial topic sensing, and recommends directions for research and development. The prototype utilized a local Large Language Model (LLM) to offer advantages in security, confidentiality, and lower operational cost.
 
+(This project summary is generated using NotebookLM)
+
 ### Libraries used
 
 Poetry was used to manage the python modules.
