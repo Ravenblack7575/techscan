@@ -21,12 +21,17 @@ SerperAPI is used to access google search for web searches. (I'll probably try D
 
 LLM is accessed using LM Studio and the model applied here is Gemma-3n-E4B-it-text-GGUF. (In future version (if any) I think that I might try DeepSeek for the reasoning parts, and Gemma for the writing.)
 
+
+### How to run it
+
+This agentic system currently runs off jupyter notebook. An additional config file contains the required connections to local LLM server (LM Studio) with the required models and api call to SerperAPI for performing google search. A separate file containing API keys is required (which is not uploaded here).
+
 </BR>
 </BR>
 
 ### Thoughts 
 
-It was satisfying to make this even though I can't say that it was successful.  It was interestng and cool to see the AI agents working. 
+It was satisfying to make this even though I can't say that it was successful. Obviously it's a try by a complete newbie. It was interestng and cool to see the AI agents working. 
 
 I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. I suspect much of the generated text is produced from hallucinations. So I do need to implement some method of evaluation on the next round.
 
