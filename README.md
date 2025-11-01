@@ -36,9 +36,8 @@ This agentic system currently runs off jupyter notebook. An additional config fi
 
 It was satisfying to make this even though I can't say that it was successful. Obviously it's a try by a complete newbie. It was interestng and cool to see the AI agents working. 
 
-I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. I suspect much of the generated text is produced from hallucinations. So I do need to implement some method of evaluation on the next round.
+I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. I suspect much of the generated text is produced from hallucinations. So I do need to implement some way to evaluate the outputs on the next round.
 
-One could get better results with bigger models. LLMs are getting better and they have costs attached to them. 
 
 Elizabeth Lim 2025
 
