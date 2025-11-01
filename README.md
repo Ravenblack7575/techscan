@@ -5,7 +5,7 @@ A prototype Multi-Agent Research Assistant using Crew AI
 
 **TechScan** is a prototype exploring the use of **multi-agent AI for tech news scanning and literature review**. Its core mission is to help researchers stay informed about the latest advancements in science and technology by tackling the challenge of information overload, particularly in cross-discipline fields.
 
-<img width="819" height="402" alt="Screenshot 2025-11-01 084124" src="https://github.com/user-attachments/assets/2cf34f98-cb6e-4676-a270-764e22997ee5" />
+<img width="818" height="382" alt="Screenshot 2025-11-01 084248" src="https://github.com/user-attachments/assets/76c632a4-acd4-4f57-8809-9914e1c4c7c5" />
 
 
 This agentic AI system autonomously searches the internet for recent news, product releases, and research findings, analyzes emerging trends, and generates **concise summary reports**. Built using Python and the crewAI framework, TechScan employs a crew of four agents: a **Tech News Researcher** (to gather information), a **Tech Consultant/Advisor** (to evaluate findings and identify trends), a **Tech Writer** (to produce the summary report), and a **Tech Report Editor** (to ensure clarity and consistency).
