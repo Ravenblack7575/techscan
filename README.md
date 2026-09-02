@@ -12,7 +12,7 @@ This agentic AI system autonomously searches the internet for recent news, produ
 
 The resulting report provides a quick overview, offers initial topic sensing, and recommends directions for research and development. The prototype utilized a local Large Language Model (LLM) to offer advantages in security, confidentiality, and lower operational cost.
 
-(This project summary is generated using NotebookLM)
+(The above project summary is generated using NotebookLM.)
 
 ### Libraries used
 
@@ -34,9 +34,11 @@ This agentic system currently runs off jupyter notebook. An additional config fi
 
 ### Thoughts 
 
-It was satisfying to make this even though I can't say that it was successful. Obviously it's a try by a complete newbie. It was interestng and cool to see the AI agents working. 
+It was satisfying to make this even though I can't say that it was successful. It's a try by a complete newbie. It was interestng and cool to see the AI agents working. 
 
 I suspect many websites don't allow scraping, as such the information retrieved was limited to what the agent is allow to read or scrape. I suspect much of the generated text is produced from hallucinations. So I do need to implement some way to evaluate the outputs on the next round.
+
+(This is where I learned that good agentic systems will likely cost quite a lot of money if they are going to be any good. Better models may come out but they will not likely be free.)
 
 
 Elizabeth Lim 2025
